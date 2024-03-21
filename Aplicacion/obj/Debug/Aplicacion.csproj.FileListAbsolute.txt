@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\bin\Debug\METODOS_INGRESAR.dll
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\bin\Debug\METODOS_INGRESAR.pdb
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\mauri\source\repos\METODOS_INGRESAR\Aplicacion\obj\Debug\Aplicacion.pdb

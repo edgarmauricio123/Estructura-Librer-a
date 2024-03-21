@@ -1,0 +1,6 @@
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\bin\Debug\METODOS_INGRESAR.dll
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\bin\Debug\METODOS_INGRESAR.pdb
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\obj\Debug\METODOS_INGRESAR.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\obj\Debug\METODOS_INGRESAR.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\obj\Debug\METODOS_INGRESAR.dll
+C:\Users\mauri\source\repos\METODOS_INGRESAR\METODOS_INGRESAR\obj\Debug\METODOS_INGRESAR.pdb
